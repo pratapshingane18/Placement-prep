@@ -21,6 +21,7 @@ int main(){
             
            if(j <= i){
            std:: cout<<cnt<<" ";
+           // formula i -j +1;
            cnt--;
            }
         }
